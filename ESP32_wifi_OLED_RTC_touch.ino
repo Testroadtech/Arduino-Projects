@@ -14,8 +14,8 @@
 
 
 // Enter your Wi-Fi credentials
-const char* ssid = "HVS Starlink";
-const char* password = "Dynatest2023";
+const char* ssid = "my_ssid";
+const char* password = "my_password";
 
 // NTP server and timezone details
 const char* ntpServer = "pool.ntp.org";
